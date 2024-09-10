@@ -8,12 +8,12 @@ spartamarket_DRF
 2024.09.06 ~ 09.10
  
 ## 3. Development Environment
--IDE : VSCODE
--Windows 10
--Python 3.10.14
--Django 4.2
--djangorestframework 3.15.2 
--djangorestframework-simplejwt 5.3.1
+- IDE : VSCODE
+- Windows 10
+- Python 3.10.14
+- Django 4.2
+- djangorestframework 3.15.2 
+- djangorestframework-simplejwt 5.3.1
 
 <br/>
 
@@ -29,6 +29,7 @@ spartamarket_DRF
 - 게시글 삭제
 - 상품 목록 조회
 <br/>
+
 ## 6. Project introduction
 Django DRF를 이용하여 스파르타마켓 구현
 
