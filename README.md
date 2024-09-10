@@ -69,4 +69,4 @@ spartamarket_DRF/
 └── manage.py          # Django 실행 파일
 ```
 ## ERD
-![ERD](drf.drawio.png)
+![ERD](ERD.drawio.png)
