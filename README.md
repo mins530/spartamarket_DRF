@@ -68,5 +68,5 @@ spartamarket_DRF/
 ├── spartamarket_DRF/   # 메인 프로젝트 폴더 (설정 및 URL 설정)
 └── manage.py          # Django 실행 파일
 ```
-## ERD
+## 8. ERD
 ![ERD](ERD.drawio.png)
